@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm AGCAL, AKA Cuber 1508, AGCAL1508
+I'm a 13 year old who's addicted to programming:p
 
-<!--
-**AGCAL1508/AGCAL1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻Programming languages I code at:**
+- Python - Intermediate and a golfer
+- C - a beginner 
+- Javascript - only tried it a bit
+- Html/Css - These are markup languages but ok
 
-Here are some ideas to get you started:
+**♟️Hobbies/skills/interests:**
+- Chess
+- Typing
+- Computer
+- Cubing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can dm in discord, AGCAL#1924, for any help in programming or talk about anything! 😎
