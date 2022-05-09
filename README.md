@@ -1,5 +1,6 @@
-### Hi there, I'm AGCAL, AKA Cuber 1508, AGCAL1508
-I'm a 13 year old who's addicted to programming:p
+### Hi there, I'm Jerenokun, you can call me Jeren!
+Formerly known as AGCAL1508
+I'm a 14 year old who's addicted to programming
 
 **💻Programming languages I code at:**
 - Python - Intermediate and a golfer
@@ -13,4 +14,4 @@ I'm a 13 year old who's addicted to programming:p
 - Computer
 - Cubing
 
-You can dm in discord, AGCAL#1924, for any help in programming or talk about anything! 😎
+You can dm in discord, Jerenokun#1924, for any help in programming or talk about anything! 😎
